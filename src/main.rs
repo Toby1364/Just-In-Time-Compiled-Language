@@ -47,7 +47,9 @@ fn main() {
         }
     }
 }
-
+/*
 fn find_var(name: String) -> Variable {
-    for varia
-}
+    for variable in VARIABLES {
+
+    }
+}*/
